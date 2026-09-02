@@ -1,1 +1,1 @@
-Yeah I should really put presentable things here at some point... I think [pyxi](https://github.com/Tetrago/pyxi) is pretty cool, though!
+I build random things I get interested in. Interested in low-level software, embedded systems, compilers, networking engineering, highly constrained environments, and everything that isn't frontend work (which I can still do). 
